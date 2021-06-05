@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      xplosive webtec
+      xplosive webtech
     </div>
   );
 }
